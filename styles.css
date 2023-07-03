@@ -3,8 +3,8 @@
 .holder
 {
 	display: grid;
-	width:200px;
-	height:200px;
+	width:100px;
+	height:100px;
 	display-template-columns: repeat(2,1fr);
 	display-template-rows: repeat(2,1fr);
 }
